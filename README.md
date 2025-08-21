@@ -4,4 +4,4 @@ Landing page for a Neighbourhood Women's Fitness Club.
 Learnt about fading in JS, so adding it to the landing page.
 <br>
 Adding testimonials
-<br><br><br>
+<br><br>
